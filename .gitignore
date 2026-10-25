@@ -1,0 +1,13 @@
+# Private course materials are never distributed.
+examples/
+.sea/
+.analysis/
+.dsh-office-*/
+node_modules/
+*.tgz
+.env
+.env.*
+!.env.example
+coverage/
+.DS_Store
+Thumbs.db

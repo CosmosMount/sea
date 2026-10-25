@@ -1,0 +1,4 @@
+- insert:
+    - id: study-edition-atlas
+      name: dsh-study-edition-atlas
+      config: {}
